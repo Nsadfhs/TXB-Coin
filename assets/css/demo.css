@@ -833,3 +833,13 @@ mediaquery 중단점
 .txt-white {
     color: #ffffff;
 }
+
+.txt-black {
+    color: #000000;
+}
+
+.strong-orange {
+    font-weight: bolder;
+    font-size: larger;
+    color:orange;
+}
